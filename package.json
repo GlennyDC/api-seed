@@ -21,7 +21,7 @@
     "lint:fix": "eslint . --cache --ext .ts,.json --fix"
   },
   "dependencies": {
-    "apollo-server-koa": "^2.19.1",
+    "apollo-server-koa": "^2.25.2",
     "bcrypt": "^5.0.0",
     "cls-hooked": "^4.2.2",
     "config": "^3.3.3",
